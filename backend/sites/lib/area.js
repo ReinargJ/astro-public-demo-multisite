@@ -118,7 +118,8 @@ const fullConfigExpandedGroups = {
       'github-prs': {},
       '@apostrophecms/rich-text': defaultRtConfig,
       article: {},
-      'price-card': {}
+      'price-card': {},
+      'sanitize-error': {}
     },
     columns: 3
   }

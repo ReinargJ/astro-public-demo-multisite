@@ -60,6 +60,9 @@ export default async function (site) {
       },
       'price-card-widget': {},
 
+      // Repro: masked sanitize error (error.path.includes is not a function)
+      'sanitize-error-widget': {},
+
       // A page type for ordinary pages
       'default-page': {},
 
